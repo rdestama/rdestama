@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rdestama
 - 👀 I’m interested in Web Developer and A.I
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Web Project
+- 💞️ I’m looking to Free Progamming Course
 - 📫 How to reach me IG:@rdestama
 
 <!---
